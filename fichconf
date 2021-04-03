@@ -1,0 +1,5 @@
+initMemory
+myalloc
+myfree
+afficherAllocation
+freeMemory
